@@ -1,0 +1,15 @@
+{
+  "name": "buton-rol-altyapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lourexe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lourexe",
+  "license": "MIT",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.11.0"
+  }
+}
